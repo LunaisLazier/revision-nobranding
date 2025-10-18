@@ -5,9 +5,6 @@ privilege: Admin
 actions:
   
   # OS Info
-  - !task: {path: 'Tasks\registry\os-info\edition.yml'}
-  - !task: {path: 'Tasks\registry\os-info\oem-info.yml'}
-
   - !task: {path: 'Tasks\start.yml'}
  
   

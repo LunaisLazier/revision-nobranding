@@ -1,6 +1,6 @@
 <h1 align="center">
 
-ReviOS Playbook📜
+ReviOS Playbook📜 (No Branding)
 
 ---
 
@@ -19,6 +19,15 @@ ReviOS Playbook📜
 </div>
 
 ReviOS is a customized version of Windows, designed to be lightweight, stable, and focused on improving performance, privacy and compatibility. It aspires to re-create what Windows as an operating system should have been - easy and simple. Now compatible with [AME Wizard](https://amelabs.net)🧙.
+
+## 🕸️ Note
+
+This is a modified version of the ReviOS Playbook to remove some of the leftover branding elements embedded in your system, if there are any issues caused by doing so, do *NOT* report them to the Revision team, instead open an issue on this repository, and we'll see what can be done!
+
+## 🤝 Support
+
+If you have any issues not correlating to the branding removals, feel free to reach out to their team on [discord!](https://discord.gg/962y4pU)
+
 
 ## ✨ Key Features
 
@@ -67,12 +76,3 @@ Explore our documentation for more information:
 [![License](https://img.shields.io/static/v1?label=LICENSE&message=CC%20BY-SA&logo=creativecommons)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ReviOS Playbook is licensed under [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).
-
-## 🤝 Support
-
-If you need any assistance or have any questions, feel free to reach out to our team. We are here to help!
-
-> [!NOTE]
-> Revision itself (and its Discord server) is not tech support in any shape or form.
-
-The best way to contact us is through our [Discord server](https://discord.gg/962y4pU).
